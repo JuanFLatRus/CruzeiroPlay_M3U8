@@ -3,3 +3,6 @@
 https://s1.tvr.ovh/video69413/video69413/chunklist_w2128816321.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://radiocruzeirodobrasil.online/wp-content/uploads/2025/04/cropped-cropped-image-1.png" group-title="Rádio - WebRadio",Rádio Cruzeiro do Brasil
 https://s1.dvr.ovh:6688/stream
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="https://radiocruzeirodobrasil.online/wp-content/uploads/2025/04/cropped-cropped-image-1.png" group-title="TV - WebTV - Variedades",TV Cruzeiro do Brasil (TCB RIO)
+https://s1.tvr.ovh/video69413/video69413/chunklist_w2128816321.m3u8
