@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="" tvg-logo="https://radiocruzeirodobrasil.online/wp-content/uploads/2025/04/cropped-cropped-image-1.png" group-title="WebTV - Variedades",TV Cruzeiro do Brasil (TCB RIO)
 https://cdn.live.br1.jmvstream.com/webtv/tvcruzeiro/playlist/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://radiocruzeirodobrasil.online/wp-content/uploads/2025/04/cropped-cropped-image-1.png" group-title="WebRadio",Rádio Cruzeiro do Brasil
-https://s1.dvr.ovh:6688/stream
+https://srv3.zcast.com.br/classicosdocinema/classicosdocinema/playlist.m3u8
 
 
 
