@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-logo="https://radiocruzeirodobrasil.online/wp-content/uploads/2025/04/cropped-cropped-image-1.png" group-title="WebTV - Variedades",TV Cruzeiro do Brasil (TCB RIO - Rio de Janeiro / Macional)
-https://tcbnacional.redetcb.com.br/api/hls/tvf1f7cbd093/index.m3u8
+https://tcbnacional.redetcb.com.br/api/hls/tv384bf02dac/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_384_1776876052.png" group-title="WebTV - Filmes Clássicos",TV Clássicos do Cinema (Manaus / Nacional)
 https://srv3.zcast.com.br/classicosdocinema/classicosdocinema/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_385_1776876075.png" group-title="WebTV - Variedades",TV Miura (Manaus / Nacional)
